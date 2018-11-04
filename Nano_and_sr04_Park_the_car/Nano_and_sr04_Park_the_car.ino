@@ -7,7 +7,7 @@
 
 
 unsigned long x; // Count to determine if car is parked
-int stopdistance = 26;  // minimum distance in inches from wall to car
+int stopdistance = 41;  // minimum distance in inches from wall to car
 
 void setup() {
   Serial.begin (9600);
